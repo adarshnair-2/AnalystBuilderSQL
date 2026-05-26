@@ -1,0 +1,3 @@
+SELECT count(*)
+FROM bikes
+where miles > 10000;
